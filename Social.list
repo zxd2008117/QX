@@ -1,0 +1,43 @@
+# > Twitter
+DOMAIN-SUFFIX,push.tapbots.com,Social
+DOMAIN-SUFFIX,pscp.tv,Social
+DOMAIN-SUFFIX,periscope.tv,Social
+DOMAIN-SUFFIX,t.co,Social
+DOMAIN-SUFFIX,twimg.co,Social
+DOMAIN-SUFFIX,twimg.com,Social
+DOMAIN-SUFFIX,twitpic.com,Social
+DOMAIN-SUFFIX,vine.co,Social
+DOMAIN-KEYWORD,twitter,Social
+
+# > Facebook
+DOMAIN-SUFFIX,cdninstagram.com,Social
+DOMAIN-SUFFIX,fb.com,Social
+DOMAIN-SUFFIX,fb.me,Social
+DOMAIN-SUFFIX,fbaddins.com,Social
+DOMAIN-SUFFIX,fbcdn.net,Social
+DOMAIN-SUFFIX,fbsbx.com,Social
+DOMAIN-SUFFIX,fbworkmail.com,Social
+DOMAIN-SUFFIX,instagram.com,Social
+DOMAIN-SUFFIX,m.me,Social
+DOMAIN-SUFFIX,messenger.com,Social
+DOMAIN-SUFFIX,oculus.com,Social
+DOMAIN-SUFFIX,oculuscdn.com,Social
+DOMAIN-SUFFIX,rocksdb.org,Social
+DOMAIN-SUFFIX,whatsapp.com,Social
+DOMAIN-SUFFIX,whatsapp.net,Social
+DOMAIN-KEYWORD,facebook,Social
+IP-CIDR,3.123.36.126/32,Social
+IP-CIDR,35.157.215.84/32,Social
+IP-CIDR,35.157.217.255/32,Social
+IP-CIDR,52.58.209.134/32,Social
+IP-CIDR,54.93.124.31/32,Social
+IP-CIDR,54.162.243.80/32,Social
+IP-CIDR,54.173.34.141/32,Social
+IP-CIDR,54.235.23.242/32,Social
+IP-CIDR,169.45.248.118/32,Social
+
+# > Discord
+host-suffix,discordapp.net,Social
+host-suffix,discordapp.com,Social
+host-suffix,discord.gg,Social
+host-suffix,discord.media,Social
