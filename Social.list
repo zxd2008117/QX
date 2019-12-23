@@ -37,7 +37,7 @@ IP-CIDR,54.235.23.242/32,Social
 IP-CIDR,169.45.248.118/32,Social
 
 # > Discord
-host-suffix,discordapp.net,Social
-host-suffix,discordapp.com,Social
-host-suffix,discord.gg,Social
-host-suffix,discord.media,Social
+DOMAIN-SUFFIX,discordapp.net,Social
+DOMAIN-SUFFIX,discordapp.com,Social
+DOMAIN-SUFFIX,discord.gg,Social
+DOMAIN-SUFFIX,discord.media,Social
